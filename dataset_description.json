@@ -24,5 +24,6 @@
     "HowToAcknowledge": "If you use these data, please also cite the original paper: TBA",
     "EthicsApprovals": [
         "CER-VD; PB_2016-02008 (204/15)"
-    ]
+    ],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004611.v1.0.0"
 }
