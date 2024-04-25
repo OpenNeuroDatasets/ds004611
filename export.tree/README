@@ -1,0 +1,38 @@
+Developmental Relaxometry Dataset
+==============================
+
+Content
+-----------
+
+This developmental relaxometry dataset consists of quantitative T1 and T2 maps of children aged between 3 and 18 years.
+T1 and T2 maps were derived from MP2RAGE and GRAPPATINI acquisition protocols. Defaced nifti files of each participant
+are available in bids format, along with their sex and age.
+
+Derivatives include results from a normative analysis, were the linear change in relaxometry values with respect to age
+was estimated for a set of brain regions, using an in-house software. Individual values for each region are available.
+The slope, offset, and 95% prediction intervals for each region are summarised in an Excel table along with a sheet that
+can be used to input measurements from new subjects, and evaluate if they fall within the model's predicted norm. We
+also provide movies that illustrate how relaxometry values change with age (one frame every 0.1 years) in a selected set
+of regions. Two nifti files with a lower sampling across age are also provided for users to visualize the whole volume
+(one sample every 6 months).
+
+Citing
+-------
+
+If you use this dataset, please cite the following paper, along with the dataset reference (on the right):
+
+> Romascano, D., Piredda, G.F., Caneschi, S. et al. Normative volumes and relaxation times at 3T during brain development. Sci Data 11, 429 (2024). https://doi.org/10.1038/s41597-024-03267-3
+
+Acknowledgements
+----------------
+
+Imaging was supported in part by the Centre d’Imagerie Biomédicale (CIBM) of the Université de Lausanne (UNIL),
+Université de Genève (UNIGE), Hôpitaux Universitaires de Genève (HUG), the Department of Radiology and Radiodiagnostic
+of the Centre Hospitalier Universitaire Vaudois (CHUV), Ecole Polytechnique Fédérale de Lausanne (EPFL), and the
+Leenaards and Jeantet Foundations.
+
+Funding
+-------
+
+This work was partly funded by the Société Académique Vaudoise, the Prepared Adult Initiative, and the Department of
+Radiology and Radiodiagnostic of the Centre Hospitalier Universitaire Vaudois (CHUV).
