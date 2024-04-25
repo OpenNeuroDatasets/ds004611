@@ -1,8 +1,8 @@
 Developmental Relaxometry Dataset
-**********************************
+==============================
 
 Content
--------
+-----------
 
 This developmental relaxometry dataset consists of quantitative T1 and T2 maps of children aged between 3 and 18 years.
 T1 and T2 maps were derived from MP2RAGE and GRAPPATINI acquisition protocols. Defaced nifti files of each participant
@@ -20,7 +20,8 @@ Citing
 -------
 
 If you use this dataset, please cite the following paper, along with the dataset reference (on the right):
-    TBA
+
+Romascano, D., Piredda, G.F., Caneschi, S. et al. Normative volumes and relaxation times at 3T during brain development. Sci Data 11, 429 (2024). https://doi.org/10.1038/s41597-024-03267-3
 
 Acknowledgements
 ----------------
