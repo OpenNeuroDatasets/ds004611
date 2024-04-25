@@ -1,0 +1,13 @@
+{
+    "participant_id": {
+        "Description": "Participant unique ID",
+        "Units": "string"
+    },
+    "sex": {
+        "Description": "Sex of the participant",
+        "Levels": {
+            "M": "male",
+            "F": "female"
+        }
+    }
+}
